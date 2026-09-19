@@ -6,23 +6,8 @@ Reinforcement Learning pipeline implementing Q-Learning on Gymnasium FrozenLake-
 
 This repository contains two main components:
 1. Practical RL Implementation: A Q-Learning agent built from scratch using Gymnasium on a 4x4 discrete grid world (FrozenLake-v1).
-2. Multi Agent Case Study Analysis: A theoretical and structural evaluation mapping Router, Retriever, Generator, and Critic agents to RL and non-zero-sum cooperative Game Theory frameworks.
-
-## System Architecture
-
-neuro-rl-game-theory/
-├── .github/workflows/ci.yml
-├── src/
-│   ├── main.py
-│   ├── q_agent.py
-│   ├── trainer.py
-│   └── evaluator.py
-├── tests/
-│   └── test_agent.py
-├── outputs/
-│   └── training_progress.png
-├── requirements.txt
-└── README.md
+2. Multi Agent Case Study Analysis: A theoretical and structural evaluation mapping Router, Retriever, Generator, and Critic agents to RL and non-zero-sum cooperative Game Theory
+3. frameworks.
 
 ## Results and Performance
 
